@@ -1,15 +1,11 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Ekah Deborah's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Ekah, Deborah Felix
+Microbiologist, Data Analist.
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
-
+<linkedin: https://www.linkedin.com/in/deborah-ekah-b694602a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=andriod_app
 
 ## Currently
 
@@ -17,75 +13,44 @@ Standing on the shoulders of giants
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+excel, powerBI, SQL, Python
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Data visualization, data-driven decision making, SQL and database management, big data technology, time series analysis, data ethics and privacy, Time and sentiment analysis.
+
+## skills
+Data analysis; Excel, power BI, google sheets
+Databases & Querying: SQL and Big Query
+Data visualization: Power BI, Tableau
+Other tools: vs code, zoom, team
+Soft skill: Critical thinking, teamwork, communication skill
+
+## projects
+__sales data analysis-SQL__
+__github CV Challenge-Git, Github, VS code__
+__bike performance dashboard__
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2000-2006`
+__Presbyterian nursery and primary school, obubra.__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`2006-20012`
+__Excellence secondary school, Obubra, cross River State__
 
 
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+`2016-2021`
+__B.Sc University of Calabar, Cross River State__
 
 
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+  ## Experience
+  `2021-2022`
+___Sales person at Quancy multipurpose Enterprise__-
 
 
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+## training
+Tugeddah training - becoming a data professional
 
 
