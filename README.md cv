@@ -1,0 +1,35 @@
+# My CV (my git and github journey)
+Welcome to my github-hosted CV! This project contains my personal resume written in markdown and published using github pages.
+This is my first hands-on experience using Git and Github. I learned how to do many things which will be listed below on my 
+what I learnt session. I now have a live cv and I'm excited to keep building on it.
+
+# Live site
+clicl here to view my cv (https://eka-deb.github.io/markdown-cv/)
+
+# about
+this is a simple cv created using:
+- Git
+- Github
+- Markdowm
+- Github Pages
+
+It is part of my Tugeddah Git & Github training.
+
+# How it works
+1. I wrote my resume in `index.md`
+2. I pushed it to Github
+3.  Github pages automatically Publishes it as a live webPage
+
+# What I learned
+- How to fork a repo
+- How to commit and push using git
+- Use Github to trace my changes
+- Creating branches and pull requests
+- Enabling Github pages
+- publish my work using Github pages.
+- Writing markdown
+  
+
+## Credits
+Thanks to Tugeddah and my mentors for th support
+- 
