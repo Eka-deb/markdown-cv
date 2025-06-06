@@ -3,7 +3,7 @@ layout: cv
 title: Ekah Deborah's CV
 ---
 # Ekah, Deborah Felix
-Microbiologist, Data Analist.
+Microbiologist, Data Analist
 
 <linkedin: https://www.linkedin.com/in/deborah-ekah-b694602a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=andriod_app
 
@@ -51,6 +51,6 @@ ___Sales person at Quancy multipurpose Enterprise__-
 
 
 ## training
-Tugeddah training - becoming a data professional
+Tugeddah training - becoming a data professional.
 
 
